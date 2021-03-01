@@ -1,0 +1,10 @@
+VN={S, A, B, C},
+P={S - dA, A - aB, B - bC, C - cB, B - d, C - aA, A - b}
+VT={a, b, c, d},
+P={ S - dA,
+    A- aB,
+    B - bC,
+    C - cB,
+    B - d,
+    C - aA,
+    A - b}
