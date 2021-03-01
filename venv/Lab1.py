@@ -71,7 +71,7 @@ visited = {"S": False, "B": False, "C": False, "D": False}
 FiniteAutomata("S", visited, [], '', inputWord)
 
 if not isAnswerFound:
-    print("Invalid string")
+    print("Invalid string!")
 else:
     print("Path succesfully build!")
    
