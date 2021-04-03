@@ -1,0 +1,3 @@
+VN={S, A, B, C};
+VT={a, b, c, d};
+P={S - dA, A - aB, B - bC, C - cB, B - d, C - aA, A - b};
