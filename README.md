@@ -10,9 +10,11 @@ String was not accepted:
 
 <img src="/venv/dfa_notaccept.PNG"/>
 
+The task is implemented in 'DFA.py' file.
+
 # Laboratory Work Task No. 2 NFA to DFA conversion
 
 Write program which converts nondeterministic finite automato (NFA) to deterministic finite automato (DFA).
 
-
+The task is implemented in 'NFAtoDFA.py' file.
 
