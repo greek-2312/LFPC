@@ -30,7 +30,7 @@ def mappingFunction(P, grammar):
 
 # Function for reading the txt file
 def readGrammar():
-
+    
     Vn, Vt, P = [], [], []
     global Vt
     # Read the file
@@ -85,9 +85,13 @@ input_string = str(input('Enter a string: '))
 # Call the reading and splitting function
 readGrammar()
 
-accepted_by_symbols = [symbol for symbol in Vt if (symbol in input_string)]
+not_accepted_by_symbols = 0
 
-if not bool(accepted_by_symbols):
+for symbol in Vt:
+    if symbol not in input_string:
+        not_accepted_by_symbols += 1
+
+if not_accepted_by_symbols != 0:
     print('There were introduced unavailable symbols.')
 else:
 
