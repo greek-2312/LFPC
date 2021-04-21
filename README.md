@@ -16,14 +16,14 @@ The task is implemented in 'DFA.py' file.
 
 Write program which converts nondeterministic finite automato (NFA) to deterministic finite automato (DFA).
 
-Visualisation of the DFA:
+### Visualisation of the DFA:
 
 <img src="/venv/dfa_capture.PNG">
 
 I wasn't able to implement the self-loops, because it was impossible for me to install pygraphviz package. But this visualisation
 is possible for every grammar included in the text file.
 
-New transitions and all the rules obtained from transforming an NFA to DFA are stored in a dictionary.
+### New transitions and all the rules obtained from transforming an NFA to DFA are stored in a dictionary.
 
 <img src="/venv/dfa_console.PNG">
 
