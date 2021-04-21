@@ -23,5 +23,9 @@ Visualisation of the DFA:
 I wasn't able to implement the self-loops, because it was impossible for me to install pygraphviz package. But this visualisation
 is possible for every grammar included in the text file.
 
+New transitions and all the rules obtained from transforming an NFA to DFA are stored in a dictionary.
+
+<img src="/venv/dfa_console.PNG">
+
 The task is implemented in 'NFAtoDFA.py' file.
 
