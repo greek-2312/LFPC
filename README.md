@@ -16,5 +16,9 @@ The task is implemented in 'DFA.py' file.
 
 Write program which converts nondeterministic finite automato (NFA) to deterministic finite automato (DFA).
 
+Visualisation of the DFA:
+
+<img src="/venv/dfa_capture.PNG">
+
 The task is implemented in 'NFAtoDFA.py' file.
 
