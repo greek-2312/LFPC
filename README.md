@@ -20,5 +20,8 @@ Visualisation of the DFA:
 
 <img src="/venv/dfa_capture.PNG">
 
+I wasn't able to implement the self-loops, because it was impossible for me to install pygraphviz package. But this visualisation
+is possible for every grammar included in the text file.
+
 The task is implemented in 'NFAtoDFA.py' file.
 
