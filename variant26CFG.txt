@@ -1,0 +1,3 @@
+a b d;
+S A B D;
+S - AB, A - d, A - dS, A - AbBA, A - epsilon, B - A, B - aS, B - A, D - Aba;
