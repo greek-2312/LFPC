@@ -33,11 +33,11 @@ The task is implemented in 'NFAtoDFA.py' file.
 
 Tasks:
 
-  1.Eliminate ε productions.
+  1. Eliminate ε productions.
  
-  2.Eliminate any renaming.
+  2. Eliminate any renaming.
   
-  3.Eliminate inaccessible symbols.
+  3. Eliminate inaccessible symbols.
   
   4. Eliminate the non productive symbols.
   
