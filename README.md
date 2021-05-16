@@ -34,9 +34,13 @@ The task is implemented in 'NFAtoDFA.py' file.
 Tasks:
 
   1.Eliminate ε productions.
+ 
   2.Eliminate any renaming.
+  
   3.Eliminate inaccessible symbols.
+  
   4. Eliminate the non productive symbols.
+  
   5. Obtain the Chomsky Normal Form
 
 Variant No. 26:
