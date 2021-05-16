@@ -32,6 +32,7 @@ The task is implemented in 'NFAtoDFA.py' file.
 # Laboratory Work Task No. 3 CFG to CNF conversion
 
 Tasks:
+
   1.Eliminate ε productions.
   2.Eliminate any renaming.
   3.Eliminate inaccessible symbols.
