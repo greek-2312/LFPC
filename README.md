@@ -31,6 +31,17 @@ The task is implemented in 'NFAtoDFA.py' file.
 
 # Laboratory Work Task No. 3 CFG to CNF conversion
 
+Tasks:
+  1.Eliminate ε productions.
+  2.Eliminate any renaming.
+  3.Eliminate inaccessible symbols.
+  4. Eliminate the non productive symbols.
+  5. Obtain the Chomsky Normal Form
+
+Variant No. 26:
+
+<img src="/venv/cfg.PNG">
+
 The output of the program:
 
 <img src="/venv/image_2021-05-17_020155.png">
