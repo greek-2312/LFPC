@@ -33,4 +33,4 @@ The task is implemented in 'NFAtoDFA.py' file.
 
 The output of the program:
 
-<img src="/venv/CNF_console.pdf">
+<img src="/venv/image_2021-05-17_020155.png">
