@@ -29,3 +29,8 @@ is possible for every grammar included in the text file.
 
 The task is implemented in 'NFAtoDFA.py' file.
 
+# Laboratory Work Task No. 3 CFG to CNF conversion
+
+The output of the program:
+
+<img src="/venv/cnf_console.PNG">
