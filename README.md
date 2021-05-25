@@ -50,3 +50,8 @@ Variant No. 26:
 The output of the program:
 
 <img src="/venv/image_2021-05-17_020155.png">
+
+# Laboratory Work Task No. 4 LL1 parser
+
+This laboratory work consist of implementing the LL1 parser. Symbol 'e' stays for empty string.
+The code is implemented in file 'LL1' and the grammar for this work (variant 26) is in the file 'grammar.txt'  
